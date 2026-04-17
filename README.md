@@ -1,5 +1,7 @@
 # 📘 School Management System (MySQL)
 
+<img width="1420" height="442" alt="image" src="https://github.com/user-attachments/assets/7dcff77c-6b8e-4218-9c89-8be1abfabd27" />
+
 ## 📌 Project Overview
 
 The **School Management System** is a relational database project built using **MySQL** to manage academic and administrative activities of a school.
